@@ -1,0 +1,42 @@
+name: coffeeapp
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_nav_bar: ^5.0.6
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.0 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - bubble-tea.png
+    - images/coffeeshop.png
+    - images/kahla.png
+    - images/cappucino.png
+    - images/kaskahwa.png
+    - images/coffee.png
+    - images/cup_16224040.png
+    - images/expresso.png
+    - images/coffee-cup.png
+    - images/drawerimage.png
+    - images/espresso.png
+    - images/cafe.png
+    - images/Mycoffee.png
+    - images/pngtree-cartoon-cute-coffee-cup-emoticon-png-image_6267711.jpg
